@@ -15,7 +15,7 @@ ExpressJS is a minimal and flexible Node.js web application framework that provi
 ## Mongoose
 Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node.js. It manages relationships between data, provides schema validation, and is used to translate between objects in code and the representation of those objects in MongoDB. https://mongoosejs.com/docs/index.html
 
-##Bcrypt
+## Bcrypt
 Bcrypt is a library to help you hash passwords. It uses a password-hashing function that is based on the Blowfish cipher. We will use this to hash sensitive things like passwords.
 
 ## Cookie-parser
